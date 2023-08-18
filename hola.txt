@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Resolviendo el Ejercicio.
+=======
+Resolviendo el Ejercicio de nivel Intermendio.  Que complicado git. lpm
+>>>>>>> refs/remotes/origin/main
